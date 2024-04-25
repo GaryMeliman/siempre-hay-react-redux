@@ -1,0 +1,9 @@
+{
+  "name": "siempre-hay-redux",
+  "version": "0.0.1",
+  "description": "Logica redux para aplicaciones siempre-hay",
+  "main": "index.js",
+  "repository": "git@github.com:GaryMeliman/siempre-hay-react-redux.git",
+  "author": "Gary Meliman <gary.meliman@outlook.com>",
+  "license": "MIT"
+}
