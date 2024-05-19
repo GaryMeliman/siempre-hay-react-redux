@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:GaryMeliman/siempre-hay-react-redux.git",
   "author": "Gary Meliman <gary.meliman@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "@reduxjs/toolkit": "^2.2.1"
+  }
 }
